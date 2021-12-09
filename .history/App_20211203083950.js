@@ -5,6 +5,7 @@ import CarsList from './components/CarsList';
 import Header from './components/Header';
 
 export default function App() {
+
   return (
     <View style={styles.container}>
       <Header />
