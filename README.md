@@ -1,4 +1,4 @@
 # Tesla
 
-An app UI for the real Tesla website.
+A React Naive app made based on real Tesla website.
 Going to continue upgrading it.
